@@ -1,24 +1,28 @@
-##30 de Maio - protótipo
+##Workshop 27 de Junho
 
 ###SERVER
 
-+ API TV - toda
-+ API
-  + contas de utilizador
-  + upload
-  + categorias
-+ jobs a actualizar a base de dados (api's externas)
++ Terminar auth
++ Users
++ Cantina
++ Tornar os jobs relevantes
++ Api web (muito atrasada)
++ criação do horario
 
 ###TV
 
-+ tudo a funcionar
++ **Animações**
++ Implementação da fila de espera
++ Barra lateral terminada
++ Visualização de conteúdos que não videos
++ **cache ou alternativa**
 
 ###MOBILE
 
-+ ver videos e artigos
-+ guardar na lista ver mais tarde
-+ categorias nos videos
++ Ligar ao server
++ **TUDO O RESTO**
 
 ###WEB
 
-+ upload de videos / criação de artigos
++ Acabar interface
++ **TUDO O RESTO**
