@@ -2,7 +2,7 @@
 
 ###SERVER
 
-+ [Terminar auth](https://github.com/CampusPI/Server/pull/32)
++ ~~[Terminar auth](https://github.com/CampusPI/Server/pull/32)~~
 + [Users](https://github.com/CampusPI/Server/issues/35)
 + [Cantina](https://github.com/CampusPI/Server/issues/19)
 + [Tornar os jobs relevantes](https://github.com/CampusPI/Server/issues/36)
