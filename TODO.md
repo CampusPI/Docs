@@ -3,8 +3,8 @@
 ###SERVER
 
 + ~~[Terminar auth](https://github.com/CampusPI/Server/pull/32)~~
-+ [Users](https://github.com/CampusPI/Server/issues/35)
-+ [Cantina](https://github.com/CampusPI/Server/issues/19)
++ ~~[Users](https://github.com/CampusPI/Server/issues/35)~~
++ ~~[Cantina](https://github.com/CampusPI/Server/issues/19)~~
 + [Tornar os jobs relevantes](https://github.com/CampusPI/Server/issues/36)
 + [Api web (muito atrasada)](https://github.com/CampusPI/Server/issues/37)
 + [Criação do horario](https://github.com/CampusPI/Server/issues/38)
