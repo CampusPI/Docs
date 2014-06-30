@@ -14,7 +14,7 @@
 + ~~[**Animações**](https://github.com/CampusPI/TV/issues/5)~~
 + [Implementação da fila de espera](https://github.com/CampusPI/TV/issues/13)
 + ~~[Barra lateral terminada](https://github.com/CampusPI/TV/issues/14)~~
-+ [Visualização de conteúdos que não videos](https://github.com/CampusPI/TV/issues/16)
++ ~~[Visualização de conteúdos que não videos](https://github.com/CampusPI/TV/issues/16)~~
 + [**Cache ou alternativa**](https://github.com/CampusPI/TV/issues/15)
 
 ###MOBILE
